@@ -1,5 +1,5 @@
 # zfsmon
-A simple python script to health check ZFS pools and notify via email if something is wrong.  
+A simple python script to health check ZFS pools and notify via email if there are faults.  
 I wrote this script to monitor my own zfs instances, because ZFS itself doesn't have any built in monitoring or alerting capabilities, hope this is useful for anyone else with the same issue.
 
 # Features
